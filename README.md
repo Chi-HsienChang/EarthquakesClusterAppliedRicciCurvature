@@ -1,1 +1,3 @@
 # EarthquakesClusterAppliedRicciCurvature
+
+It’s important to observe earthquake distribution and source properties like extension or collision in subduction zone. Well cluster ways can let us understand the regional properties. Ricci curvature is one piece of information to classify these. Our objective is using Ricci curvature to classify earthquake happen in Earth to know the regional properties. We compare the result with Kmeans clustering, the results are shown in below. We think the result of Ricci curvature is better than Kmeans. 
